@@ -191,7 +191,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 Your Store. All rights reserved.</p>
+            <p>&copy; 2024 Your Store. All rights reserved.</p>By <a harf="https://www.aadigitalworks.com/ie/wexford">Website Design Wexford</a>
           </div>
         </div>
       </footer>
